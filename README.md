@@ -1,4 +1,4 @@
-# 🤖 Spring AI RAG Application (`springai-rag`)
+# 🤖 Spring AI RAG Application (`springai-agy-rag`)
 
 Una aplicación moderna desarrollada con **Java 25**, **Spring Boot** y **Spring AI** para implementar técnicas de **Retrieval-Augmented Generation (RAG)** utilizando inteligencia artificial 100% local y soberanía de datos.
 
